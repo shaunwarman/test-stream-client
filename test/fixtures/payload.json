@@ -1,0 +1,13 @@
+{
+  "name": "citylog",
+  "data": {
+    "homes": {
+      "city": {
+        "austin": "10",
+        "denver": "12",
+        "houston": "20",
+        "new york": "24"
+      }
+    }
+  }
+}
